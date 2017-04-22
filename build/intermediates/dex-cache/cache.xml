@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_f381da7aedde5b350b5566715a9fa1d59d87b634.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_dfdb0ad9d9c7909971bbae55e096afa7593b266e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_8af54be0c819d98089c39316823d2256df82697e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0d38a287a6a51be5b452cbf965502922fd64c30c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_b47f9e3c2a8cf09bd749e64257df8806197cfad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c7ce15d253bf00ac0d3c6e0227d62c37062af369.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_64b140601e382c71346ede339a10558c494c2af5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_29dc026672efb55b49137abbb71be3957f5a1c50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_7364e820f8b4b71c24706bdfe1ffc3e35e84f2b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_ec9698adcf2d797effd86346aa54cb64cdff2c7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_4732809396b35b4921e2110052ae2c74562135c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishi/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_bec1a8080a1b03fde409062e752c102dfc641246.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_2ac75ebd2511078750c0d96531b44b53dd854034.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4ce16e5576c92893647c8fe8fe9e5ce90557fdc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_15af88cfc37ab642a4e23cc3f5939988942ce8c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_9371a108709a49b041211eca18ebbfe739d36bcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e9bae32418ee56be996120d7d27f7a2c6c0969b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_b0031d397646f29f44dd41d962e6fb5665b80b4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/rishi/AndroidStudioProjects/CECS590/BluetoothChat/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_12221570c29b24568a56d9fa5869101332e82f53.jar" />
+    </item>
+
+</items>
